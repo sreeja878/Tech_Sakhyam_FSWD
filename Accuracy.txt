@@ -1,0 +1,8 @@
+Classification of Malaria-Infected Cells using Convolutional Neural Networks
+
+Model: CNN model
+
+
+Accuracy score: 0.9596
+
+
